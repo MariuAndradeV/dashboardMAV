@@ -2,7 +2,7 @@
   "name": "dashboardmav",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Maruu03.github.io/dashboard",
+  "homepage": "https://MariuAndradeV.github.io/dashboard https://github.com/MariuAndradeV/dashboardMAV.git",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
@@ -13,9 +13,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@emotion/react": "^11.13.3",
-    "@emotion/styled": "^11.13.0",
-    "@mui/material": "^6.1.6",
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
+    "@mui/material": "^6.1.9",
     "dashboardmav": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
