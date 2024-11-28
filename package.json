@@ -2,7 +2,7 @@
   "name": "dashboardmav",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://MariuAndradeV.github.io/dashboard https://github.com/MariuAndradeV/dashboardMAV.git",
+  "homepage": "https://MariuAndradeV.github.io/dashboardMAV/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
@@ -16,22 +16,23 @@
     "@emotion/react": "^11.13.5",
     "@emotion/styled": "^11.13.5",
     "@mui/material": "^6.1.9",
+    "@mui/x-charts": "^7.22.3",
     "dashboardmav": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@eslint/js": "^9.13.0",
+    "@eslint/js": "^9.15.0",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
-    "@vitejs/plugin-react": "^4.3.3",
-    "eslint": "^9.13.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.15.0",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.14",
     "gh-pages": "^6.2.0",
-    "globals": "^15.11.0",
+    "globals": "^15.12.0",
     "typescript": "~5.6.2",
-    "typescript-eslint": "^8.11.0",
-    "vite": "^5.4.10"
+    "typescript-eslint": "^8.15.0",
+    "vite": "^6.0.1"
   }
 }
